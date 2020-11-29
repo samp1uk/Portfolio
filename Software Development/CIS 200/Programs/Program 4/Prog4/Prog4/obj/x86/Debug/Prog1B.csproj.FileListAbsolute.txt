@@ -1,0 +1,27 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1B\Prog1B\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1B\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1B\Prog1B\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1B\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1B\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog1B\Prog1B\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog1B\Prog1B\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog1B\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog1B\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog1B\Prog1B\obj\x86\Debug\Prog1.pdb
+C:\Users\rafey\Downloads\spatel11uk-attachments\Prog1B\Prog1B\Prog1B\bin\Debug\Prog1.exe
+C:\Users\rafey\Downloads\spatel11uk-attachments\Prog1B\Prog1B\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\rafey\Downloads\spatel11uk-attachments\Prog1B\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csprojAssemblyReference.cache
+C:\Users\rafey\Downloads\spatel11uk-attachments\Prog1B\Prog1B\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\rafey\Downloads\spatel11uk-attachments\Prog1B\Prog1B\Prog1B\obj\x86\Debug\Prog1.pdb
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 4\Prog4\Prog1B\bin\Debug\Prog1.exe
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 4\Prog4\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 4\Prog4\Prog1B\obj\x86\Debug\Prog1B.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 4\Prog4\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 4\Prog4\Prog1B\obj\x86\Debug\Prog1.pdb

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Login</title>
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="style.css">
+	<script>
+function breakout() {
+  if (window.top != window.self) {
+    window.top.location = "../../index.html";
+  }
+}
+</script>
+</head>
+<body>
+	<div class="container">
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#"><i class="fas fa-key"></i>Login</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <i class="far fa-window-minimize"></i>
+            <i class="far fa-window-restore"></i>
+            <i class="far fa-window-close"></i>
+          </form>
+        </div>
+      </nav>
+      <h2>Login - Research and Innovation</h2>
+      <table class="table table-bordered">
+          <tbody> 
+            <tr>
+              <td></td>
+              <td>User ID :</td>
+              <td><input type="text"></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Password :</td>
+              <td><input type="password"></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="button">
+          <button type="button" onclick="breakout()">Submit</button>
+          <button>Cancel</button>
+        </div>
+        <div class="forgot">
+          <a href="#">Forgot User ID or Password</a>
+        </div>
+    </header>
+  </div>
+	</div>
+	<script src="assets/js/jquery-3.3.1.min.js"></script>
+	<script src="assets/js/popper.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/all.js"></script>
+	<script src="assets/js/main.js"></script>
+</body>
+</html>

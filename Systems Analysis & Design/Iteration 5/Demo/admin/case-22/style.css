@@ -1,0 +1,231 @@
+body{
+	font-family: tohoma;
+}
+button{
+	cursor: pointer;
+}
+header{
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	border: 1px solid gray;
+	background-color: #F0F0F0;
+	padding: 15px;
+}
+header h2{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #fff !important;
+}
+.forgot a {
+    font-size: 30px;
+    text-decoration: underline;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+.svg-inline--fa.fa-window-minimize.fa-w-16 {
+  font-size: 20px;
+  margin-right: 20px;
+  margin-top: -15px;
+  cursor: pointer;
+}
+.svg-inline--fa.fa-window-restore.fa-w-16 {
+  font-size: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.svg-inline--fa.fa-window-close.fa-w-16 {
+  font-size: 20px;
+  margin: 0;
+  cursor: pointer;
+}
+.svg-inline--fa.fa-key.fa-w-16 {
+    color: #F1C40F;
+    font-size: 25px;
+    margin-right: 20px;
+}
+.navbar-brand {
+    font-size: 25px;
+    margin: 0;
+}
+header span{
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+	text-decoration: underline;
+}
+.btn.btn-outline-success.my-2.my-sm-0 {
+    margin-left: -9px;
+    border: 1px solid black;
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+}
+.form-control.mr-sm-2 {
+    border-right: none;
+    border-radius: 5px 0 0 5px;
+    padding: 5px;
+}
+.btn.btn-outline-success.my-2.my-sm-0 {
+    padding: 5px;
+}
+.svg-inline--fa.fa-caret-down.fa-w-10 {
+    color: #000;
+}
+.tab tr p{
+	font-size: 16px;
+}
+td  button{
+	text-align: center;
+	border: 1px solid gray;
+	padding: 5px 10px;
+	margin: auto;
+	font-weight: bold;
+	background-color: #C8C8C8;
+	font-size: 18px;
+}
+.login_button{
+	
+}
+.choose_button button{
+	width: 40%;
+	text-align: center;
+	border: 1px solid gray;
+	padding: 5px 0;
+	margin: 10px auto;
+	font-weight: bold;
+	background-color: #C8C8C8;
+	font-size: 18px;
+}
+.display_area .top_button{
+	width: 60%;
+ 	margin: auto;
+}
+.display_area .top_button button{
+	width: 60%;
+	text-align: center;
+	border: 1px solid gray;
+	padding: 5px 0;
+	margin: 50px auto;
+	font-weight: bold;
+	background-color: #C8C8C8;
+	font-size: 18px;
+}
+.table-bordered td, .table-bordered th {
+    border: none;
+}
+td{
+	width: 16.33%;
+}
+table-bordered{
+	border: none;
+}
+table tr th{
+	font-size: 16px;
+}
+
+.btn.btn-default {
+  border: 1px solid gray;
+  border-left: none;
+}
+.fine_area{
+
+}
+.table-bordered {
+    /* border: 1px solid #000; */
+    border: none;
+}
+.fine_area thead{
+	border: 2px solid gray;
+}
+.fine_area span{
+	font-weight: bold;
+	font-size: 27px;
+	border-bottom: 3px solid #545454;
+}
+.fine_area input{
+	width: 100%;
+	border: 1px solid #000;
+	box-sizing: border-box;
+}
+.fine_area thead td{
+	font-size: 38px;
+	font-weight: bold;
+	padding: 10px 0;
+	margin: 0 20px;
+}
+.fine_area table tr{
+	border: 1px solid gray;
+}
+.fine_area thead td{
+	font-size: 20px;
+}
+.fine_area table tr td{
+	font-size: 28px;
+	text-align: center;
+	font-weight: bold;
+	border: 2px solid gray;
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+.fine_area table tr th{
+	/* font-size: 28px;
+	text-align: center; */
+}
+.fine_area .pan{
+	margin-bottom: 15px;
+}
+
+.display_area{
+
+}
+.display_area  input{
+	width: 100%;
+	padding: 5px 0;
+	border: 1px solid #000;
+	box-sizing: border-box;
+}
+.display_area h3{
+	font-weight: bold;
+	font-size: 27px;
+	border-bottom: 3px solid #545454;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+.display_area h1{
+	font-size: 28px;
+	text-align: center;
+	font-weight: bold;
+	border: 2px solid gray;
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+.display_area td{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+}
+.button{
+	width: 40%;
+	margin: auto;
+}
+.button button{
+	width: 45%;
+	border: 2px solid #000;
+	text-align: center;
+	padding: 2px 0;
+	background: linear-gradient(to right, #DCE7F9 , #fff);
+	font-size: 22px;
+	font-weight: bold;
+	margin: 30px 0;
+	box-sizing: border-box;
+}
+.button button:last-child{
+	margin-right: 0;
+	float: right;
+}

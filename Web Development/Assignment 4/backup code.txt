@@ -1,0 +1,50 @@
+////Starting Balance calulations and adding to array.
+            //for (int i = 0; i < dateArray.Length; ++i)
+            //{
+            //    double balance = Principal;
+
+            //    startBalance[i] += balance;
+            //}
+
+            ////montly payments calulations and adding to array.
+            //for (int i = 0; i < dateArray.Length; i++)
+            //{
+            //    double paid = Monthlypayment;
+            //    youpaid[i] += paid;
+            //}
+
+            ////Interest calulations and adding to array.
+            //for (int i = 0; i < dateArray.Length; i++)
+            //{
+            //    double rate = startBalance[i] * Rate;
+            //    interest[i] += rate;
+            //}
+
+            ////Principal Paid calulations and adding to array.
+            //for (int i = 0; i < dateArray.Length; i++)
+            //{
+            //    double principalPay = youpaid[i] - interest[i];
+            //    principalPaid[i] += principalPay;
+            //}
+
+            ////Ending Balance calulations and adding to array.
+            //for (int i = 0; i < dateArray.Length; i++)
+            //{
+            //    double endBal = startBalance[i] - principalPaid[i];
+            //    endBalance[i] += endBal;
+            //}
+
+            ////Total Interest calulations and adding to array.
+            //for (int i = 0; i < dateArray.Length; i++)
+            //{
+            //    double totInterest = 0;
+            //    if(i > 0)
+            //    {
+            //        totInterest = totalInterest[i - 1] + interest[i];
+            //    }
+            //    else
+            //    {
+            //        totInterest = interest[i];
+            //    }
+            //    totalInterest[i] += totInterest;
+            //}

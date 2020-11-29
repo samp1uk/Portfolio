@@ -1,0 +1,6 @@
+D:\Documents\College\CIS 199\Codes\codetest\varisble alignment\varisble alignment\obj\Debug\varisble alignment.csproj.CoreCompileInputs.cache
+D:\Documents\College\CIS 199\Codes\codetest\varisble alignment\varisble alignment\bin\Debug\varisble alignment.exe.config
+D:\Documents\College\CIS 199\Codes\codetest\varisble alignment\varisble alignment\bin\Debug\varisble alignment.exe
+D:\Documents\College\CIS 199\Codes\codetest\varisble alignment\varisble alignment\bin\Debug\varisble alignment.pdb
+D:\Documents\College\CIS 199\Codes\codetest\varisble alignment\varisble alignment\obj\Debug\varisble alignment.exe
+D:\Documents\College\CIS 199\Codes\codetest\varisble alignment\varisble alignment\obj\Debug\varisble alignment.pdb

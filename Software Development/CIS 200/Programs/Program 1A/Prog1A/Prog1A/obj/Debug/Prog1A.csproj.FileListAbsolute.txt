@@ -1,0 +1,7 @@
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 1A\Prog1A\Prog1A\bin\Debug\Prog1A.exe.config
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 1A\Prog1A\Prog1A\bin\Debug\Prog1A.exe
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 1A\Prog1A\Prog1A\bin\Debug\Prog1A.pdb
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 1A\Prog1A\Prog1A\obj\Debug\Prog1A.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 1A\Prog1A\Prog1A\obj\Debug\Prog1A.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 1A\Prog1A\Prog1A\obj\Debug\Prog1A.exe
+C:\Users\User\Dropbox\College\Current\CIS 200\Programs\Program 1A\Prog1A\Prog1A\obj\Debug\Prog1A.pdb

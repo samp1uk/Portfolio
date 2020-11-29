@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="adminmaster.master.cs" Inherits="Bank2020.admin.adminmaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <style>
+        .registerbtn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 5px;
+            margin: auto;
+            border: none;
+            cursor: pointer;
+            width: 90%;
+            opacity: 0.9;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            width: 200px;
+            text-decoration: none;
+        }
+
+        .text {
+            margin: 2px;
+        }
+
+        .div1 {
+            width: 100%;
+            height: 40px;
+            background-color: #555;
+        }
+
+        .div2 {
+            width: 14%;
+            height: 740px;
+            background-color: #555;
+        }
+    </style>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="width: 100%">
+            <div class="row" style="background-color: #a9a8a8">
+                <div class="col-lg-3">
+                    <a href="/home.aspx">
+                        <asp:Image ID="homeImg" runat="server" ImageUrl="~/imgs/BWIcon.png" Height="91px" Width="140px" Style="margin: 5px" />
+                    </a>
+                    <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Label ID="titleLbl" runat="server" Font-Bold="True" Font-Names="Bauhaus 93" Text="Bank 2020" ForeColor="White"></asp:Label>
+
+
+                </div>
+                <div class="col-lg-6"></div>
+                <div class="col-lg-3">
+                    <div class="row">
+                        <div class="col-2 offset-2">
+                            <br />
+                            <asp:LinkButton ID="logoutBtn" runat="server" CssClass="btn btn-danger" Font-Names="Times New Roman" Font-Overline="False" Font-Size="Large" ForeColor="White" PostBackUrl="~/login.aspx">Logout</asp:LinkButton>
+
+                        </div>
+                        <div class="col-3 offset-2">
+                            <asp:Image ID="userImg" runat="server" ImageUrl="~/imgs/login/user.png" Height="83px" Width="96px" />
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-10 offset-6">
+                            <asp:Label ID="lblUserInfo" class="alert alert-success" runat="server" Text=""></asp:Label>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-lg-2" style="background-color: #a9a8a8; height: 720px">
+                    <center><table>
+                    <tr>
+                        <td>
+                            <br /><asp:LinkButton ID="userBtn" runat="server" Font-Names="Times New Roman" Font-Overline="False" Font-Size="Large" ForeColor="White" PostBackUrl="~/admin/User.aspx">Manage Users</asp:LinkButton>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <br /><asp:LinkButton ID="custBtn" runat="server" Font-Names="Times New Roman" Font-Overline="False" Font-Size="Large" ForeColor="White" PostBackUrl="~/admin/Customer.aspx">Manage Customers</asp:LinkButton>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <br /><asp:LinkButton ID="loanBtn" runat="server" Font-Names="Times New Roman" Font-Overline="False" Font-Size="Large" ForeColor="White" PostBackUrl="~/admin/Loan.aspx">Manage Loans</asp:LinkButton>
+                        </td>
+                    </tr>
+                </table>
+                </center>
+                </div>
+                <div class="col-lg-10">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\User\Dropbox\College\Current\CIS 411\Lab\lab chap 4\Ex04Cart\Ex04Cart\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Halloween.mdf">
+      <publishTime>02/06/2020 22:52:00</publishTime>
+    </File>
+    <File Include="App_Data/Halloween_log.ldf">
+      <publishTime>02/06/2020 22:52:00</publishTime>
+    </File>
+    <File Include="bin/Ex04Cart.dll">
+      <publishTime>02/06/2020 23:02:16</publishTime>
+    </File>
+    <File Include="bin/Ex04Cart.pdb">
+      <publishTime>02/06/2020 23:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/28/2015 14:47:40</publishTime>
+    </File>
+    <File Include="Cart.aspx">
+      <publishTime>02/02/2020 15:48:56</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Content/site.css">
+      <publishTime>07/07/2016 16:36:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/28/2015 14:47:38</publishTime>
+    </File>
+    <File Include="Images/banner.jpg">
+      <publishTime>12/28/2015 14:49:22</publishTime>
+    </File>
+    <File Include="Images/Products/arm1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/blacklight1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/cat1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/cool1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/fog1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/fogjuice1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/frank1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/freddy1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/head1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/head2.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/hippie1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/jarjar1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/martian1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/mummy1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/powers1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/rat1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/rat2.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/skel1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/skullfog1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/strobe1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/superman1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/tlm1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Images/Products/vader1.jpg">
+      <publishTime>12/28/2015 14:49:34</publishTime>
+    </File>
+    <File Include="Order.aspx">
+      <publishTime>02/02/2020 15:49:06</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>12/28/2015 14:48:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>12/28/2015 14:48:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>12/28/2015 14:48:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>12/28/2015 14:48:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/06/2020 23:02:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

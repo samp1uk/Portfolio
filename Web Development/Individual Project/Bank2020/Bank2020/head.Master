@@ -1,0 +1,209 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="head.Master.cs" Inherits="Bank2020.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form2" runat="server">
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #1f2242d1;">
+            <a class="navbar-brand" href="#">Bank 2020</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <asp:LinkButton CssClass="nav-link" ID="homeBtn" runat="server" Font-Bold="True" Font-Overline="False" Font-Size="Medium" ForeColor="White" PostBackUrl="~/home.aspx">HOME</asp:LinkButton>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton CssClass="nav-link" ID="aboutBtn" runat="server" Font-Bold="True" Font-Overline="False" Font-Size="Medium" ForeColor="White" PostBackUrl="~/about.aspx">ABOUT US</asp:LinkButton>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton CssClass="nav-link" ID="contactBtn" runat="server" Font-Bold="True" Font-Overline="False" Font-Size="Medium" ForeColor="White" PostBackUrl="~/contact.aspx">CONTACT US</asp:LinkButton>
+                    </li>
+                    <li class="nav-item"></li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <asp:LinkButton CssClass="btn btn-outline-success my-2 my-sm-0" ID="loginBtn" runat="server" Font-Bold="True" Font-Names="Times New Roman" Font-Overline="False" Font-Size="Medium" ForeColor="White" PostBackUrl="~/login.aspx">Login</asp:LinkButton>
+                </form>
+            </div>
+        </nav>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <br />
+        <br />
+        <footer>
+            <style>
+                a {
+                    color: #b7cee1;
+                    text-decoration: none;
+                    text-transform: uppercase;
+                    font-size: 15px;
+                    cursor: pointer;
+                }
+
+                    a:hover {
+                        color: #58bed3;
+                        text-decoration: none;
+                        cursor: pointer;
+                    }
+
+                body {
+                    background-color: #f2f2f2;
+                }
+            </style>
+
+            <div style="background-color: #1d2f408f;">
+                <div class="container">
+
+                    <!-- Grid row-->
+                    <div class="row py-4 d-flex align-items-center">
+
+                        <!-- Grid column -->
+                        <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+                            <h6 class="mb-0">Get connected With Us</h6>
+                        </div>
+                        <!-- Grid column -->
+
+                        <!-- Grid column -->
+                        <div class="col-md-6 col-lg-7 text-center text-md-right">
+
+                            <!-- Facebook -->
+                            <a class="fb-ic">
+                                <i class="fab fa-facebook-f white-text mr-4"></i>
+                            </a>
+                            <!-- Twitter -->
+                            <a class="tw-ic">
+                                <i class="fab fa-twitter white-text mr-4"></i>
+                            </a>
+                            <!-- Google +-->
+                            <a class="gplus-ic">
+                                <i class="fab fa-google-plus-g white-text mr-4"></i>
+                            </a>
+                            <!--Linkedin -->
+                            <a class="li-ic">
+                                <i class="fab fa-linkedin-in white-text mr-4"></i>
+                            </a>
+                            <!--Instagram-->
+                            <a class="ins-ic">
+                                <i class="fab fa-instagram white-text"></i>
+                            </a>
+
+                        </div>
+                        <!-- Grid column -->
+
+                    </div>
+                    <!-- Grid row-->
+
+                </div>
+            </div>
+
+            <!-- Footer Links -->
+            <div style="background-color: #2e3a46; width: 100%; margin-top: -1px; color: white; padding-top: 1px;">
+                <div class="container text-center text-md-left mt-5">
+
+                    <!-- Grid row -->
+                    <div class="row mt-3">
+
+                        <!-- Grid column -->
+                        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
+
+                            <!-- Content -->
+                            <h6 class="text-uppercase font-weight-bold">About Us</h6>
+                            <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p>We aspire to become the locally owned, independent community bank of choice for small and medium-sized businesses, professionals, and individuals in LA.</p>
+                        </div>
+                        <!-- Grid column -->
+
+                        <!-- Grid column -->
+                        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                            <!-- Links -->
+                            <h6 class="text-uppercase font-weight-bold">Our Services</h6>
+                            <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p>
+
+                                <a href="#">Service</a>
+                            </p>
+
+                        </div>
+                        <!-- Grid column -->
+
+                        <!-- Grid column -->
+                        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+                            <!-- Links -->
+                            <h6 class="text-uppercase font-weight-bold">Quick Links</h6>
+                            <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p>
+                                <asp:LinkButton ID="homeLink" runat="server" Font-Underline="False" PostBackUrl="~/home.aspx">Home</asp:LinkButton>
+
+                            </p>
+                            <p>
+                                <asp:LinkButton ID="aboutLink" runat="server" Font-Underline="False" PostBackUrl="~/about.aspx">About Us</asp:LinkButton>
+                            </p>
+
+                            <p>
+
+                                <asp:LinkButton ID="contactLink" runat="server" Font-Underline="False" PostBackUrl="~/contact.aspx">Contact Us</asp:LinkButton>
+                            </p>
+
+
+                        </div>
+                        <!-- Grid column -->
+
+                        <!-- Grid column -->
+                        <div class="col-md-4 col-lg-4 col-xl-3 mx-auto mb-md-0 mb-4">
+
+                            <!-- Links -->
+                            <h6 class="text-uppercase font-weight-bold">Contact Us</h6>
+                            <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                            <p>
+                                <i class="fas fa-home mr-3"></i>LA – United States
+                            </p>
+                            <p style="font-size: 14px">
+                                <i class="fas fa-envelope mr-3"></i>info@bank2020.com
+                            </p>
+                            <p>
+                                <i class="fas fa-phone mr-3"></i>+1 783 222 1110
+                            </p>
+                            <p>
+                                <i class="fa fa-whatsapp mr-3"></i>+1 974 567 1234
+                            </p>
+
+                        </div>
+                        <!-- Grid column -->
+
+                    </div>
+                    <!-- Grid row -->
+
+                </div>
+                <!-- Footer Links -->
+
+                <!-- Copyright -->
+                <div class="footer-copyright text-center py-3">
+                    © We are Bank 2020. All rights reserved.
+    
+                </div>
+                <!-- Copyright -->
+            </div>
+
+        </footer>
+    </form>
+</body>
+</html>

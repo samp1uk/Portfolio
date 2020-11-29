@@ -1,0 +1,7 @@
+C:\Users\User\Dropbox\College\CIS 199\Codes\while\whiletest\whiletest\bin\Debug\whiletest.exe.config
+C:\Users\User\Dropbox\College\CIS 199\Codes\while\whiletest\whiletest\bin\Debug\whiletest.exe
+C:\Users\User\Dropbox\College\CIS 199\Codes\while\whiletest\whiletest\bin\Debug\whiletest.pdb
+C:\Users\User\Dropbox\College\CIS 199\Codes\while\whiletest\whiletest\obj\Debug\whiletest.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\College\CIS 199\Codes\while\whiletest\whiletest\obj\Debug\whiletest.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\College\CIS 199\Codes\while\whiletest\whiletest\obj\Debug\whiletest.exe
+C:\Users\User\Dropbox\College\CIS 199\Codes\while\whiletest\whiletest\obj\Debug\whiletest.pdb

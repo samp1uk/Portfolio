@@ -1,0 +1,139 @@
+body{
+	font-family: tohoma;
+}
+header{
+	margin-bottom: 20px;
+}
+button{
+	cursor: pointer;
+}
+header h2{
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+header span{
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+	text-decoration: underline;
+}
+
+
+.table-bordered td, .table-bordered th {
+    border: none;
+}
+td{
+	width: 16.33%;
+}
+table-bordered{
+	border: none;
+}
+table tr th{
+	font-size: 16px;
+}
+
+.btn.btn-default {
+  border: 1px solid gray;
+  border-left: none;
+}
+.fine_area{
+
+}
+.table-bordered {
+    /* border: 1px solid #000; */
+    border: none;
+}
+.fine_area thead{
+	border: 2px solid gray;
+}
+.fine_area span{
+	font-weight: bold;
+	font-size: 27px;
+	border-bottom: 3px solid #545454;
+}
+.fine_area input{
+	width: 100%;
+	border: 1px solid #000;
+	box-sizing: border-box;
+}
+.fine_area thead td{
+	font-size: 38px;
+	font-weight: bold;
+	padding: 10px 0;
+	margin: 0 20px;
+}
+.fine_area table tr{
+	border: 1px solid gray;
+}
+.fine_area thead td{
+	font-size: 20px;
+}
+.fine_area table tr td{
+	font-size: 21px;
+	font-weight: bold;
+}
+.fine_area table tr th{
+	/* font-size: 28px;
+	text-align: center; */
+}
+.fine_area .pan{
+	margin-bottom: 15px;
+}
+.fine_area #one{
+	margin: 0 !important;
+}
+
+.display_area{
+
+}
+.display_area  input{
+	width: 100%;
+	padding: 5px 0;
+	border: 1px solid #000;
+	box-sizing: border-box;
+}
+.display_area h3{
+	font-weight: bold;
+	font-size: 27px;
+	border-bottom: 3px solid #545454;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+.display_area h1{
+	font-size: 28px;
+	text-align: center;
+	font-weight: bold;
+	border: 2px solid gray;
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+.display_area td{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+}
+.button{
+	width: 40%;
+	margin: auto;
+}
+.button button{
+	width: 45%;
+	border: 2px solid #000;
+	text-align: center;
+	padding: 2px 0;
+	background: linear-gradient(to right, #DCE7F9 , #fff);
+	font-size: 22px;
+	font-weight: bold;
+	margin: 30px 0;
+	box-sizing: border-box;
+}
+.button button:last-child{
+	margin-right: 0;
+	float: right;
+}
+.display_area .tab{
+	border: 2px solid gray;
+	padding: 10px;
+}

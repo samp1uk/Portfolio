@@ -1,0 +1,10 @@
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\bin\Debug\lab3.exe
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\bin\Debug\lab3.pdb
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\obj\Debug\lab3.Form1.resources
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\obj\Debug\lab3.exe
+D:\Documents\College\CIS 199\LABS\Lab3\lab3\lab3\obj\Debug\lab3.pdb

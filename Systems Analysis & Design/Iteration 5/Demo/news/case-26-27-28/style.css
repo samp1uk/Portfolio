@@ -1,0 +1,41 @@
+header{
+	width: 60%;
+	margin: auto;
+	margin-top: 30px;
+}
+header .button{
+	
+}
+header .button button{
+	width: 25%;
+	float: left;
+	margin-right: 12%;
+	text-align: center;
+	border: 2px solid #000;
+	padding: 5px 0;
+	color: red;
+	background-color: #fff;
+	cursor: pointer;
+	font-weight: bold;
+	overflow: hidden;
+}
+input{
+	width: 100%;
+	border: none;
+}
+textarea {
+    width: 100%;
+    border: none;
+}
+header .form{
+	padding-top: 80px;
+}
+.footer_button button {
+    background-color: #AD0000;
+    padding: 7px 20px;
+    color: #fff;
+    border: transparent;
+    float: right;
+    margin-top: -16px;
+}
+

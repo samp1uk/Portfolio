@@ -1,0 +1,10 @@
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\bin\Debug\guidemo.exe.config
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\bin\Debug\guidemo.exe
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\bin\Debug\guidemo.pdb
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\obj\Debug\guidemo.csprojAssemblyReference.cache
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\obj\Debug\guidemo.Form1.resources
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\obj\Debug\guidemo.Properties.Resources.resources
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\obj\Debug\guidemo.csproj.GenerateResource.cache
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\obj\Debug\guidemo.csproj.CoreCompileInputs.cache
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\obj\Debug\guidemo.exe
+D:\Documents\College\CIS 199\Codes\gui test\guidemo\guidemo\obj\Debug\guidemo.pdb

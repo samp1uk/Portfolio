@@ -1,0 +1,7 @@
+D:\Documents\College\CIS 199\Codes\code1\code1\bin\Debug\code1.exe.config
+D:\Documents\College\CIS 199\Codes\code1\code1\bin\Debug\code1.exe
+D:\Documents\College\CIS 199\Codes\code1\code1\bin\Debug\code1.pdb
+D:\Documents\College\CIS 199\Codes\code1\code1\obj\Debug\code1.csprojAssemblyReference.cache
+D:\Documents\College\CIS 199\Codes\code1\code1\obj\Debug\code1.csproj.CoreCompileInputs.cache
+D:\Documents\College\CIS 199\Codes\code1\code1\obj\Debug\code1.exe
+D:\Documents\College\CIS 199\Codes\code1\code1\obj\Debug\code1.pdb

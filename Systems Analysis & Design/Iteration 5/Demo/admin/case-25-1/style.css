@@ -1,0 +1,52 @@
+header{
+	width: 60%;
+	margin: auto;
+	margin-top: 30px;
+}
+header .image .photo {
+    border: 1px solid gray;
+    padding: 20px;
+    text-align: center;
+}
+header .image{
+	width: 25%;
+	float: left;
+	margin-right: 5%;
+	overflow: hidden;
+}
+header .image span{
+	background-color: #FFF;
+}
+header .image a{
+	color: #000;
+	border: 1px solid gray;
+	display: block;
+	margin-top: 20px;
+	text-align: center;
+}
+header .image img{
+	height: 100px;
+	width: 100px;
+}
+header .profile{
+	width: 70%;
+	overflow: hidden;
+}
+header .profile h2{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center
+}
+header .profile h4{
+	font-size: 14px;
+	opacity: .5;
+}
+.svg-inline--fa.fa-ellipsis-v.fa-w-6 {
+    float: right;
+}
+header .profile b{
+	background-color: #FFF;
+}
+input {
+    width: 100%;
+}

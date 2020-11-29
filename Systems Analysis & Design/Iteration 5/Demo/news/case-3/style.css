@@ -1,0 +1,59 @@
+.case_three input{
+	border: 1px solid gray;
+	padding: 10px;
+	width: 100%;
+}
+.case_three h2 {
+  font-size: 25px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+button{
+  cursor: pointer;
+}
+.case_three .one {
+  float: left;
+  width: 22%;
+}
+.case_three .two {
+  overflow: hidden;
+  width: 78%;
+}
+.case_three textarea {
+    width: 100%;
+    box-sizing: border-box;
+    height: 130px;
+}
+.case_three .three {
+  width: 30%;
+  float: left;
+  margin-right: 3%;
+}
+.case_three .four {
+  width: 67%;
+  overflow: hidden;
+}
+.case_three .four input {
+  width: 100%;
+  border: 1px dotted gray;
+  background-color: #fff;
+  cursor: pointer;
+}
+.case_three .desc{
+	margin: 30px 0;
+}
+.case_three .requ{
+	margin: 40px 0;
+}
+.case_three .submit input{
+    width: 15% !important;
+    margin:  30px auto;
+    display: block;
+}
+.nav-item {
+    width: 20%;
+    text-align: center;
+}
+.navbar-toggler {
+    text-align: right;
+}
